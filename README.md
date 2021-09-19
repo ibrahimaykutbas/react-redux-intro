@@ -1,5 +1,5 @@
 # React Redux Intro
-[Project](https://react-redux-intro-15574.web.app/)
+[Project](https://react-redux-intro-15574.web.app/) <br> <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Built With
 ReactJS
