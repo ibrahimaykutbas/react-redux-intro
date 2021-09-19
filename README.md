@@ -1,8 +1,8 @@
-# Getting Started with Create React App
-Project: https://react-redux-intro-15574.web.app/ <br/><br/>
+# React Redux Intro
+[Project](https://react-redux-intro-15574.web.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Built With
-ReactJS<br/>
+ReactJS
 ## Tools
 - Redux
 - Reactstrap
@@ -12,7 +12,7 @@ ReactJS<br/>
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
 `git clone https://github.com/ibrahimaykutbas/react-redux-intro`<br/><br/>
-`cd northwind-redux`<br/><br/>
+`cd react-redux-intro`<br/><br/>
 Run the following commands into the project folder to install project dependencies.<br/><br/>
 `npm init`<br/><br/>
 `npm install`<br/><br/>
